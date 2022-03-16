@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raju-gopal-singh-hari-42565621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju-gopal-singh-hari-42565621" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raju gopal singh hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju gopal singh hari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
