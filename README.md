@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Cricbuzz**
 
-- 🌱 I’m currently learning ****
+<!-- - 🌱 I’m currently learning **** /> -->
 
 - 💬 Ask me about **Node.js, JavaScript, Python, Golang, Gin**
 
